@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "title": "new post",
+      "author": "wagner",
+      "id": 3,
+      "order": 1,
+      "isFavorite": true
+    },
+    {
+      "title": "second post",
+      "author": "wagner",
+      "id": 4,
+      "order": 2,
+      "isFavorite": true
+    },
+    {
+      "title": "third post",
+      "author": "wagner",
+      "id": 5,
+      "order": 3,
+      "isFavorite": true
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
